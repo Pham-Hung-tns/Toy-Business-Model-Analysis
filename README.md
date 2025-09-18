@@ -1,6 +1,7 @@
 # Project Overview
 ![](https://github.com/Pham-Hung-tns/Toy-Business-Model-Analysis/blob/409700572180cd1ea78f3feb0e75aad1f091c922/Images/General.png)
 # Data Model
+<img width="1154" height="707" alt="image" src="https://github.com/user-attachments/assets/3b7d7bab-f13c-480c-bdd9-4d59046d5523" />
 ## 1. Purpose
 ```From 2003 to the second quarter of 2005, the toy business with seven global locations recorded trends in revenue, profit, and unit sales—all three moving in the same direction. As the number of units sold increased, revenue and profit increased, and vice versa. However, the data also revealed bottlenecks in inventory turnover, customer channels, and seasonal variations. This analysis explores each of these issues and suggests solutions.```
 
